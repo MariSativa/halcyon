@@ -7,3 +7,6 @@
 	ignorecase = true
 [user]
 	email = mariamrfgo34@gmail.com
+[remote "origin"]
+	url = https://github.com/MariSativa/pyh.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
